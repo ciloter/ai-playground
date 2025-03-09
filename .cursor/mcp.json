@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/wilmer/claude/hello-world"
+      ]
+    },
+    "github": {
+      "command": "/Users/wilmer/claude/hello-world/.cursor/mcp/github.sh",
+      "args": []
+    }
+  }
+}
