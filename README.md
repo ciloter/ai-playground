@@ -20,3 +20,10 @@ This repository is created for testing AI features in Cursor IDE.
 - Debugging help
 
 This repository serves as a sandbox for exploring these capabilities.
+
+## Getting started
+
+```bash
+chmod +x .cursor/mcp/github.sh 
+chmod +x .cursor/mcp/.env.sh 
+```

@@ -5,11 +5,11 @@
       "args": [
         "-y",
         "@modelcontextprotocol/server-filesystem",
-        "/Users/wilmer/claude/hello-world"
+        "/Users/wilmer/claude/ai-playground"
       ]
     },
     "github": {
-      "command": "/Users/wilmer/claude/hello-world/.cursor/mcp/github.sh",
+      "command": "/Users/wilmer/claude/ai-playground/.cursor/mcp/github.sh",
       "args": []
     }
   }
