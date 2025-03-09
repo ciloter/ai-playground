@@ -9,7 +9,11 @@
       ]
     },
     "github": {
-      "command": "/Users/wilmer/claude/ai-playground/.cursor/mcp/github.sh",
+      "command": "env GITHUB_PERSONAL_ACCESS_TOKEN=<GITHUB_PERSONAL_ACCESS_TOKEN> npx -y @modelcontextprotocol/server-github",
+      "args": []
+    },
+    "linear": {
+      "command": "env LINEAR_API_KEY=<LINEAR_API_KEY> npx -y linear-mcp-server",
       "args": []
     }
   }
